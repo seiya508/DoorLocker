@@ -4,7 +4,7 @@ This locks/unlocks door using web server or Alexa.
 
   
   
-***** This video is prototype. *****
+***** This video is prototype using IC Reader. *****
 
 https://user-images.githubusercontent.com/82433238/153733214-3400681f-1983-4794-8f55-80a603c25075.mp4
 
