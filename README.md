@@ -7,3 +7,7 @@ This locks/unlocks door using web server or Alexa.
 ***** This video is prototype. *****
 
 https://user-images.githubusercontent.com/82433238/153733214-3400681f-1983-4794-8f55-80a603c25075.mp4
+
+
+https://user-images.githubusercontent.com/82433238/153733619-f1a86fca-ef54-4464-8b86-3846f62c390c.mp4
+
